@@ -1,0 +1,8 @@
+name = "cw-airtable"
+main = "src/index.ts"
+compatibility_date = "2022-08-25"
+
+[vars]
+AIRTABLE_BASE_ID = "appzw08PDL5E13vQ5"
+AIRTABLE_TABLE_NAME = "form-submissions"
+FORM_URL = "https://astro-form-airtable.pages.dev/"
